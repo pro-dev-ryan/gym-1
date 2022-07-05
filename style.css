@@ -111,3 +111,116 @@ body {
     font-size: 1.1rem;
     color:#fff;
 }
+
+.three {
+    width: 90%;
+    margin: 50px auto;
+    margin-bottom: 100px;
+    height: 100%;
+    text-align: center;
+    font-family: Montserrat, sans-serif;
+
+}
+
+.three h2 {
+    font-size: 2rem;
+    font-weight: 700;
+    color:#707070;
+    margin-bottom: 50px;
+}
+
+#mid {
+    padding: 0 350px ;
+    font-size: 1rem;
+}
+
+.cards {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 5%;
+}
+
+.card {
+    width: 45%;
+    display: inline-block;
+    border-radius: 30px;
+}
+
+.card h3 {
+    margin-top: 50px;
+    margin-left: 20px;
+    font-size: 2rem;
+    text-align: left;
+}
+
+.card p {
+    padding:0 23px;
+    margin:30px 0;
+    text-align: left;
+}
+
+.bg {
+    width: 500px;
+    height: 310px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.on {
+    box-shadow: -5px -2px 10px rgba(94, 94, 94, 0.719) ;
+}
+
+.to {
+    box-shadow: 5px -2px 10px rgba(88, 88, 88, 0.719) ;
+
+}
+.four {
+    width: 85%;
+    height: 300px;
+    margin: 50px auto;
+
+}
+.last {
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 15px;
+    box-shadow: 2px 2px 10px rgba(88, 88, 88, 0.719) ;
+
+}
+
+.child {
+    font-family: Montserrat, sans-serif;
+}
+
+.child h3 {
+    font-size: 2.5rem;
+}
+
+footer {
+    margin-top: 20px;
+    height: 150px;
+    background-color: #18191F;
+
+}
+
+.foot {
+    padding-top: 20px;
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.foot p {
+    margin-top: 20px;
+    color:#707070;
+}
+
+.f {
+    color:#FF1E1E;
+}
+#last {
+    font-size: 1.2rem;
+}
