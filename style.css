@@ -5,7 +5,60 @@
 }
 
 body {
+    font-size: 16px;
+}
+
+.one {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
     background-image: url('./img/Frame\ 59.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.hero {
+    /* width: 50%; */
+    height: 500px;
+    padding: 5% 0 5% 2%;
+
+}
+
+.hero-one {
+    height: 600px;
+
+}
+
+.hero h1 {
+    font-size: 3rem;
+    font-family: Montserrat, sans-serif ;
+    margin-bottom: 30px;
+
+}
+.hero p {
+    font-family: Montserrat, sans-serif ;
+    font-size: 1.2rem;
+    color: #828282;
+    margin-top: 30px;
+
+}
+
+.hero .ore {
+    color: #FF1E1E;
+}
+
+.hero a{
+    
+    text-decoration: none;
+    font-size: 1.2rem;
+    color: #fff;
+    border-radius: 20px;
+    padding: 10px 30px;
+    background-image: linear-gradient(to left, #FBA24F, #FF1E1E);
+
+}
+ .hero li {
+    list-style-type: none;
+    margin-top: 30px;
+ }
